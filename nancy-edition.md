@@ -1,10 +1,10 @@
 ---
-title: "Nancy Edition"
-permalink: "/nancy-edition/"
+title: "Reading and Writing Philosophy"
+permalink: "/reading-writing-philosophy/"
 layout: page
 ---
 
-![title](/assets/img/nancy-3.jpg){:style="display:block; margin-left:auto; margin-right:auto" width="800"}
+![title](/assets/img/zurich-blue-sky.jpg){:style="display:block; margin-left:auto; margin-right:auto" width="800"}
 
 # Nancy Workshop
 
