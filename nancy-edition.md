@@ -6,6 +6,8 @@ layout: page
 
 ![title](/assets/img/zurich-sky-blue.jpg){:style="display:block; margin-left:auto; margin-right:auto" width="800"}
 
+ Hello!
+
 # Nancy Workshop
 
 The **Nancy workshop** will take place on **30-31 May, 2023** at the Archives Henri Poincaré in Nancy.
